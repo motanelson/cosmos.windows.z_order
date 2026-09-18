@@ -1,1 +1,1 @@
-16 bits cript  decript 
+learn windows x y z z-order
